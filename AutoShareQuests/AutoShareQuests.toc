@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: AutoShareQuests
+## Notes: Shares all of your quests with your party, on command or automatically when someone joins.
+## Author: Maji
+## Version: 1.0
+## SavedVariables: AutoShareQuestsDB
+
+AutoShareQuests.lua
